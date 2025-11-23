@@ -12,7 +12,6 @@
   <a href="#-onde-comprar">Onde Comprar</a> •
   <a href="#-estrutura-do-repositório">Códigos</a> •
   <a href="#-como-executar">Como Usar</a> •
-  <a href="#-autor">Autor</a>
 </p>
 
 
